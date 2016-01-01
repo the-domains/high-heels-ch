@@ -1,7 +1,7 @@
 name: high-heels-ch
 favicon: null
-layout_spectrum: 0.4529570313170552
-typography_spectrum: 0.7651445679366589
+layout_spectrum: 0.58359
+typography_spectrum: 0.25351
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.46955218561924994
-  lightness: 0.1809374471195042
-  saturation: 0.14535039965994656
-  rhythmicContrast: 0.8476505689322948
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
